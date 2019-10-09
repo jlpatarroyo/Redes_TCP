@@ -1,0 +1,6 @@
+
+2019/09/29 23:35:43 -----------------------------------
+2019/09/29 23:35:43 RECIBIDO: Ok:cliente3
+2019/09/29 23:35:43 ENVIADO: Preparado
+2019/09/29 23:35:43 RECIBIDO: Longitud de archivo = 268435456bytes
+2019/09/29 23:35:43 Recibiendo
